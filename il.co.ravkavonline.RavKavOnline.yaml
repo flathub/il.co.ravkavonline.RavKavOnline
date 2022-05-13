@@ -69,8 +69,8 @@ modules:
           - --sbindir=/app/bin
         sources:
           - type: archive
-            url: https://github.com/LudovicRousseau/PCSC/archive/1.9.6/PCSC-1.9.6.tar.gz
-            sha256: c03e25dd236fb7b60dfc8d3a0db0dd6c32a7da97b67ef2409c9127984fc901e7
+            url: https://github.com/LudovicRousseau/PCSC/archive/1.9.7/PCSC-1.9.7.tar.gz
+            sha256: 0fa018321e7de1e7ad25bd4f33cf6ef56e6656991510cf47de6f23fd41497344
             x-checker-data:
               type: anitya
               project-id: 2611
