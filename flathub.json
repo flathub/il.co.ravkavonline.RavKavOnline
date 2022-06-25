@@ -1,4 +1,5 @@
 {
     "automerge-flathubbot-prs": false,
-    "only-arches": ["x86_64"]
+    "only-arches": ["x86_64"],
+    "require-important-update": true
 }
