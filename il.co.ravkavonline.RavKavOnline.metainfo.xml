@@ -22,7 +22,9 @@
     </screenshot>
   </screenshots>
   <url type="homepage">https://ravkavonline.co.il</url>
-  <developer_name>Pcentra Ltd.</developer_name>
+  <developer id="il.co.ravkavonline">
+    <name>Pcentra Ltd.</name>
+  </developer>
   <releases>
     <release version="2.5.2" date="2020-02-06"/>
   </releases>
