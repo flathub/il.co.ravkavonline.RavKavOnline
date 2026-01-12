@@ -6,16 +6,13 @@
   <name>Rav-Kav Online</name>
   <summary>Load Your Rav-Kav Card at Home and Travel in Comfort</summary>
   <description>
+    <p>**NOTE: This wrapper is not verified by, affiliated with, or supported by ravkavonline.co.il or Pcentra Ltd.**</p>
     <p>
       Load your Rav-Kav card via the Rav-Kav Online website with a card reader.
     </p>
     <p>
       Rav-Kav Online client requires pcscd, the PC/SC Smart Card Daemon, running 
       or for the service socket activation to be enabled.
-    </p>
-    <p>
-      NOTE: This is an unofficial wrapper that downloads and installs the Rav-Kav Online app.
-      It is not verified by, affiliated with, or supported by ravkavonline.co.il or Pcentra Ltd.
     </p>
   </description>
   <launchable type="desktop-id">il.co.ravkavonline.RavKavOnline.desktop</launchable>
